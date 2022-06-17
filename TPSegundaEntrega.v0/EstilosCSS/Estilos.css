@@ -1,0 +1,48 @@
+﻿body {
+    background-color:mistyrose;
+}
+ table, td {
+    border-style: solid;
+    border-color: black;
+    border-width: thin;
+}
+
+.generico {
+    background-color: #0000FF;
+    color: #00FF00;
+    width: 150px;
+    height: 150px;
+    font-size: 12px;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-style: normal;
+}
+
+.obligatorio{
+    background-color: #FF0000;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-weight:bold;    
+}
+
+.preferencias {
+    background-color: #00FF00;
+    color: #000000;
+    width: 150px;
+    font-size: 8px;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+}
+.enfocada {
+    background-color: #66CCFF;
+    color: #3333CC;
+    width: 150px;
+    font-size: 12px;
+    font-family: "Papyrus", "Calibri"; 
+}
+.desenfocada {
+    background-color: #FFFFFF;
+    color: #000000;
+    width: 150px;
+    font-size: 12px;
+    font-family: "Arial";
+}
